@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Console of the games
+ * 
  * @author Jiranan Patrathamkul
  *
  */

@@ -1,7 +1,8 @@
 package guessingGame;
 
 /**
- * Main method of the game 
+ * Main method of the game
+ * 
  * @author Jiranan Patrathamakul
  *
  */
