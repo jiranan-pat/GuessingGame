@@ -2,7 +2,7 @@ package guessingGame;
 
 /**
  * Main method of the game 
- * @author TUNE
+ * @author Jiranan Patrathamakul
  *
  */
 

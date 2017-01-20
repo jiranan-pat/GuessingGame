@@ -6,7 +6,7 @@ import java.util.Random;
  * 
  * Game of guessing a secret number
  * 
- * @author Jiranan
+ * @author Jiranan Patrathamakul
  *
  */
 
@@ -57,7 +57,7 @@ public class GuessingGame {
 	public boolean guess(int guessNumber) {
 		this.count++;
 		if (guessNumber == this.secret) {
-			this.hint = "Correct. The secret is " + this.secret + "You used "
+			this.hint = "Correct. The secret is " + this.secret + " You used "
 					+ this.count + " guesses";
 			return true;
 		} else if (guessNumber > this.secret) {
